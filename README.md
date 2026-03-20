@@ -1,4 +1,4 @@
-# server-less-arch
+# Serverless Architecture
 # ✅ Assignment 17:
 
     Restore EC2 Instance from Snapshot
